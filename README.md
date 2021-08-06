@@ -22,6 +22,9 @@ Describing the human anatomay using Augmented Reality. Made for Optum Global Hac
     5. After you run the application on your device, project it over the printed image targets and click the virtual buttons for the 3d Human Anatomical models to show up.
 
 ## Running the project, without setting anything up.
+- Prerequisites
+    1. An android device with a working camera.
+    2. Printed image targets for the models to be shown over. You can find the 2 images from [here](https://github.com/chhabrabhishek/Optum-Medical-Lab/tree/main/Assets/Images).
 - Download the APK file from [here](https://github.com/chhabrabhishek/Optum-Medical-Lab/raw/main/Apks/Optum%20Medical%20Lab.apk).
 - Copy and install this APK into your android device.
 - Run the application and start projecting it over the printed image targets 
