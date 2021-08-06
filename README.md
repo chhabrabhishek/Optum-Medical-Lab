@@ -4,7 +4,7 @@ Describing the human anatomay using Augmented Reality. Made for Optum Global Hac
 ## Setting up and running the project
 - Prerequisites
     1. A working machine with Unity installed (Preferable Version 2020.3.14f1 LTS). All versions are supported otherwise.
-    2. Printed image targets for the models to be shown over. You can find the 2 images from [here]().
+    2. Printed image targets for the models to be shown over. You can find the 2 images from [here](https://github.com/chhabrabhishek/Optum-Medical-Lab/tree/main/Assets/Images).
     3. Android SDK, Android NDK and Java JDK installed (If wants to be deployed on Android devices).
     4. Unity must include IOS support package (If wants to be deployed on I-Phone devices).
 - Clone the project in your local workspace.
@@ -22,7 +22,7 @@ Describing the human anatomay using Augmented Reality. Made for Optum Global Hac
     5. After you run the application on your device, project it over the printed image targets and click the virtual buttons for the 3d Human Anatomical models to show up.
 
 ## Running the project, without setting anything up.
-- Download the APK file from [here]().
+- Download the APK file from [here](https://github.com/chhabrabhishek/Optum-Medical-Lab/raw/main/Apks/Optum%20Medical%20Lab.apk).
 - Copy and install this APK into your android device.
 - Run the application and start projecting it over the printed image targets 
 - Click the virtual buttons for the 3d Human Anatomical models to show up.
